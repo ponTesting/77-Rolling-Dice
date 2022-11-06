@@ -18,6 +18,7 @@ In order to play the game you can get it following this steps
 - Play!
 
 # Scope
+In the following months i'll try to implement a NodeJS framework to play with people online.
 I hope you will get a fun moment playing the game. And if anybody is interested in improving it or maybe take it to another level feel free to do so.
 
 Thank you!
