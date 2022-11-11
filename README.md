@@ -1,6 +1,8 @@
 # Title
 77 Rolling Dice
-You can play it here: https://neon-syrniki-742cd1.netlify.app/
+
+Play now!
+Link: https://neon-syrniki-742cd1.netlify.app/
 
 # Description
 77 Rolling Dice is an offline game in which you can throw dices and hold the current points till you reach 77 and win the game. The funny thing is that you can lost all your current points when you get ONE(1) on the dice and the turn is passed to the other player. So be careful and cautious about your current points and knowing when to hold them becomes the skill to develop in order to win the opponent.
