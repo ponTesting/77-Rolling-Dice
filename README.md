@@ -13,7 +13,7 @@ I built this game in order to develop and improve my HTML, CSS and JavaScript sk
  "Creativity is intelligence having fun." Albert Einstein
 
 # How to get the repository?
-In order to obtain the game repository followi this steps..
+In order to obtain the game repository follow this steps..
 - Entering the repository link.
 - Click on “Clone or Download”
 - Right after “Download Zip”, the download will start, once the download is finished you must unzip the file.
